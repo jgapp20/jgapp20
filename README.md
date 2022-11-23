@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jgapp20
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning all
-- 💞️ I’m looking to collaborate on web
-- 📫 How to reach me in website newsisco.com 
+- 🌱 I’m currently learning all 
 
 <!---
 jgapp20/jgapp20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
